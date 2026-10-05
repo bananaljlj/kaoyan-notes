@@ -1,0 +1,33 @@
+:root {
+  color-scheme: light;
+}
+
+html,
+body,
+.vscode-body {
+  background-color: #faf9f6 !important;
+  color: #30343b !important;
+}
+
+a {
+  color: #25658a;
+}
+
+blockquote {
+  color: #5e646d;
+  border-left-color: #d7d3ca;
+}
+
+code {
+  color: #34383f;
+  background-color: #f0eee9;
+}
+
+pre {
+  background-color: #f3f1ec !important;
+}
+
+table th,
+table td {
+  border-color: #d8d4cb !important;
+}

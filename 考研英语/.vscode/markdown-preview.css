@@ -1,0 +1,70 @@
+html,
+body {
+  background-color: #f1f3f5 !important;
+  color: #292d32 !important;
+}
+
+body {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
+  color: #1f2328;
+}
+
+a {
+  color: #0969da;
+}
+
+blockquote {
+  color: #57606a;
+  background-color: #e7eaee;
+  border-color: #c7ccd2;
+}
+
+table tr {
+  background-color: #f6f7f8;
+  border-color: #c7ccd2;
+}
+
+table tr:nth-child(2n) {
+  background-color: #e9ecef;
+}
+
+table th,
+table td {
+  border-color: #c7ccd2;
+}
+
+code {
+  color: #24292f;
+  background-color: #e2e6ea;
+}
+
+pre {
+  color: #24292f;
+  background-color: #e7eaee;
+  border: 1px solid #c7ccd2;
+}
+
+pre code {
+  background-color: transparent;
+}
+
+body.vscode-dark pre code span,
+body.vscode-high-contrast pre code span {
+  color: #24292f !important;
+}
+
+hr {
+  height: 1px;
+  background-color: #c7ccd2;
+  border: 0;
+}

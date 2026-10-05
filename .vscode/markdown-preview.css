@@ -1,0 +1,32 @@
+html,
+body,
+.vscode-body {
+  background-color: #ffffff !important;
+  color: #1f2328 !important;
+}
+
+.vscode-body a {
+  color: #0969da;
+}
+
+.vscode-body blockquote {
+  color: #59636e;
+  border-left-color: #d1d9e0;
+}
+
+.vscode-body code {
+  background-color: #eff1f3;
+  color: #1f2328;
+}
+
+.vscode-body pre,
+.vscode-body pre code {
+  background-color: #f6f8fa;
+}
+
+.vscode-body table tr,
+.vscode-body table th,
+.vscode-body table td {
+  background-color: #ffffff;
+  border-color: #d1d9e0;
+}

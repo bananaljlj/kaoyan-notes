@@ -1,0 +1,64 @@
+:root {
+  color-scheme: light;
+}
+
+html,
+body,
+body.vscode-body {
+  background-color: #f7f8fa !important;
+  color: #2b3035 !important;
+}
+
+body.vscode-body {
+  line-height: 1.75;
+}
+
+body.vscode-body h1,
+body.vscode-body h2,
+body.vscode-body h3,
+body.vscode-body h4,
+body.vscode-body h5,
+body.vscode-body h6 {
+  color: #20252a;
+}
+
+body.vscode-body a {
+  color: #28669f;
+}
+
+body.vscode-body code {
+  background-color: #eceff2;
+  color: #2b3035;
+}
+
+body.vscode-body pre {
+  background-color: #eceff2 !important;
+}
+
+body.vscode-body pre code {
+  background-color: transparent;
+}
+
+body.vscode-body blockquote {
+  background-color: #f0f2f4;
+  border-left-color: #aeb8c2;
+  color: #515a63;
+  padding: 0.5rem 1rem;
+}
+
+body.vscode-body table th,
+body.vscode-body table td {
+  border-color: #cfd5db;
+}
+
+body.vscode-body table tr {
+  background-color: #f7f8fa;
+}
+
+body.vscode-body table tr:nth-child(2n) {
+  background-color: #f0f2f4;
+}
+
+body.vscode-body hr {
+  border-color: #d6dbe0;
+}
